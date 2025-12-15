@@ -1,6 +1,6 @@
 local M = {}
 
-function M.setup()
+M.setup = function(config)
 	print("snake is executed")
 end
 
